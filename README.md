@@ -13,8 +13,6 @@ Bem-vindo ao repositório do projeto Meu Projeto Blog MBA. Este projeto é uma e
 
 **2. Proposta do Projeto**
 
-O projeto consiste em:
-
 Aplicação MVC: Interface web para interação com o blog.
 
 API RESTful: Exposição dos recursos do blog para integração com outras aplicações ou desenvolvimento de front-ends alternativos.
