@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+*.tlog
+*.out
+
+# Diretório de saída de build
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configurações temporárias e caches
+ipch/
+*.cache
+*.ide
+.idea/
+
+# Arquivos de publicação e pacotes
+artifacts/
+.publish/
+.publishoutput/
+
+# Pacotes e lockfiles
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+*.nuspec
+
+# Diretórios específicos de dependências
+node_modules/
+wwwroot/lib/
+wwwroot/dist/
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados automaticamente por ferramentas
+_ReSharper*/  
+*.resharper  
+*.DotSettings.user  
+
+# Arquivos do Rider e JetBrains
+.idea/
+*.sln.iml
